@@ -1,0 +1,33 @@
+h1{
+    background-image: url(../images/apple-pie.jpg);
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    font-size: 5em;
+}
+
+p{
+    color: black;
+    background-color: white;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+}
+
+.recipe-img {
+    display: felx;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.cooking-img {
+    display: felx;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
